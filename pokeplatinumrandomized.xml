@@ -73,7 +73,7 @@ EJS_core = "nds";
 EJS_color = "#000000";
 EJS_startOnLoaded = true;
 EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-EJS_gameUrl = "https://rawcdn.githack.com/bubbls/help/9c3438f06979be36d572158020a0d89ef8639574/Pokemon%20Platinum%20Randomized%203.zip";
+EJS_gameUrl = "http://unpkg.com/blazez@1.0.3/object-packages/platinumrandom.zip";
 loadGame();
 }
 document.getElementById("startButton").addEventListener("click", startGame);
