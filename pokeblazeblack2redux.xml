@@ -73,7 +73,7 @@ EJS_core = "nds";
 EJS_color = "#000000";
 EJS_startOnLoaded = true;
 EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-EJS_gameUrl = "https://rawcdn.githack.com/bubbls/classroom6xarchive/446ba85c030752b5ad996edc774ac667480846f6/Pokemon%20Blaze%20Black%202%20Redux%20Complete%20(v1.4.1).7z";
+EJS_gameUrl = "https://unpkg.com/blazez@1.0.0/object-packages/main.7z";
 loadGame();
 }
 document.getElementById("startButton").addEventListener("click", startGame);
