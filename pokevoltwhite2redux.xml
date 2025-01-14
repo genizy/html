@@ -73,7 +73,7 @@ EJS_core = "nds";
 EJS_color = "#000000";
 EJS_startOnLoaded = true;
 EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-EJS_gameUrl = "https://rawcdn.githack.com/bubbls/classroom6xarchive/964d06e7c5db9a845cf1a9d07db15b8a9a78a788/Pokemon%20Volt%20White%202%20Redux%20Complete%20(v1.4.1).7z";
+EJS_gameUrl = "https://unpkg.com/blazez@1.0.4/object-packages/voltwhite.7z";
 loadGame();
 }
 document.getElementById("startButton").addEventListener("click", startGame);
